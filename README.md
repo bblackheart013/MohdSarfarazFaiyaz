@@ -75,20 +75,20 @@ AI-powered DevOps assistant developed with Microsoft mentorship that analyzes pr
 ### AI Hardware Acceleration
 Verilog-based hardware accelerator achieving **4000× speedup** over software for parallel vector multiplication operations through:
 
-- Custom ALU optimized for AI matrix operations
-- Pipeline architecture minimizing stall conditions
-- Distributed memory access for maximized throughput
-- Host-device interface with negligible transfer overhead
+- **Custom ALU optimized for AI matrix operations
+- **Pipeline architecture minimizing stall conditions
+- **Distributed memory access for maximized throughput
+- **Host-device interface with negligible transfer overhead
 
 *Performance: 4× linear speedup with added processing units, <2% overhead for embedded systems*
 
 ### WebAssembly Sandbox (Lind3i)
 Next-generation security sandbox for AI-driven embedded systems developed in collaboration with Intel researchers:
 
-- Achieves <2% performance overhead while maintaining complete memory isolation
-- Eliminates 80% of CVE exposure vectors through kernel syscall isolation
-- Reduces memory usage by 28% through advanced virtualization techniques
-- Enhances real-time inference capabilities while preserving POSIX compatibility
+- **Achieves <2% performance overhead while maintaining complete memory isolation
+- **Eliminates 80% of CVE exposure vectors through kernel syscall isolation
+- **Reduces memory usage by 28% through advanced virtualization techniques
+- **Enhances real-time inference capabilities while preserving POSIX compatibility
 
 ## 📚 Research Publications
 
